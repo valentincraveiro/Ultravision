@@ -1,0 +1,65 @@
+
+/**
+* -------------
+* Global Styles
+* -------------
+*/
+
+body {
+  /* Default font family and font color */
+}
+
+p, li, textarea, label, input, select {
+  /* Default font size and line height */
+}
+
+
+
+h1 {
+   /* Default font, size, and margins */
+}
+
+h2 {
+  /* Default font, size, and margins */
+}
+
+h3 {
+  /* Default font, size, and margins */
+}
+
+h4 {
+  /* Default font, size, and margins */
+}
+
+h5 {
+  /* Default font, size, and margins */
+}
+
+h6 {
+  /* Default font, size, and margins */
+}
+
+
+a {
+  /* Link color */
+}
+
+a:hover {
+  /* Link color on mouse over */
+}
+
+
+/**
+* ------
+* Layout
+* ------
+*/
+
+
+
+
+/**
+* ----------
+* Components
+* ----------
+*/
