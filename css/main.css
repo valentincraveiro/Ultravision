@@ -6,21 +6,82 @@
 */
 
 body {
-  /* Default font family and font color */
+  font-family: sans-serif;
 }
 
 p, li, textarea, label, input, select {
   /* Default font size and line height */
 }
 
-
-
-h1 {
-   /* Default font, size, and margins */
+#rectangle {
+    height: 128px;
+    width: 1440px;
+    background: #fcce00;
+    margin: 0 0 8px;
+  padding: 0 416px 5px 418px;
+  opacity: 0.81;
 }
 
-h2 {
-  /* Default font, size, and margins */
+#rectangle_2 {
+  width: 1440px;
+  height: 64px;
+  background: #ff6b00;
+  margin: 6px 0;
+  padding: 6px 478px 5px;
+  opacity: 0.81;
+}
+
+#rectangle_3 {
+  width: 1440px;
+  height: 32px;
+  background: #e02020;
+  margin: 8px 0;
+  opacity: 0.81;
+}
+
+#rectangle_4 {
+  width: 1440px;
+  height: 16px;
+  background: #b620e0;
+  margin: 8px 0;
+  opacity: 0.81;
+}
+
+#rectangle_5 {
+  width: 1440px;
+  height: 8px;
+  background: #6236ff;
+  margin: 8px 0;
+  opacity: 0.81;
+}
+
+h1 {
+  width: 606px;
+  height: 123px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 88px;
+  font-weight: 900;
+  letter-spacing: normal;
+  text-align: center;
+  color: white;
+}
+
+.computer {
+  width: 484px;
+  height: 53px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 28px;
+  color: white;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.color {
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  color: black;
+  letter-spacing: normal;
+  text-align: center;
 }
 
 h3 {

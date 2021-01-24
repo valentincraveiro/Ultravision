@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1" height="512" viewBox="0 0 1 512">
+    <defs>
+        <path id="a2gjz0cl0a" d="M0 0H720V512H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g fill="#FF6B00">
+                    <path d="M0 0H720V256H0z" opacity=".809" transform="translate(-1 -1048) translate(0 1048) translate(1)"/>
+                    <path d="M0 256H720V384H0z" opacity=".609" transform="translate(-1 -1048) translate(0 1048) translate(1)"/>
+                    <path d="M0 384H720V448H0z" opacity=".409" transform="translate(-1 -1048) translate(0 1048) translate(1)"/>
+                    <path d="M0 448H720V480H0z" opacity=".199" transform="translate(-1 -1048) translate(0 1048) translate(1)"/>
+                    <path d="M0 480H720V496H0z" opacity=".099" transform="translate(-1 -1048) translate(0 1048) translate(1)"/>
+                    <path d="M0 496H720V512H0z" opacity=".045" transform="translate(-1 -1048) translate(0 1048) translate(1)"/>
+                </g>
+                <g style="mix-blend-mode:darken" transform="translate(-1 -1048) translate(0 1048)"/>
+            </g>
+        </g>
+    </g>
+</svg>
