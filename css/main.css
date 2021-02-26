@@ -353,44 +353,15 @@ text-align: justify;
 	transform: translateX(0px);
 }
 
+.box {
+      display: flex;
+      flex-direction: column;
+      flex-grow: auto;
+      color: #ffffff;
 
-h3 {
-  /* Default font, size, and margins */
-}
+    }
 
-h4 {
-  /* Default font, size, and margins */
-}
-
-h5 {
-  /* Default font, size, and margins */
-}
-
-h6 {
-  /* Default font, size, and margins */
-}
-
-
-a {
-  /* Link color */
-}
-
-a:hover {
-  /* Link color on mouse over */
-}
-
-
-/**
-* ------
-* Layout
-* ------
-*/
-
-
-
-
-/**
-* ----------
-* Components
-* ----------
-*/
+  .box2 {
+          display: flex;
+          flex-direction: row;
+        }
