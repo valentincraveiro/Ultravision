@@ -353,15 +353,55 @@ text-align: justify;
 	transform: translateX(0px);
 }
 
-.box {
-      display: flex;
-      flex-direction: column;
-      flex-grow: auto;
-      color: #ffffff;
+label {
+		display: block;
+}
 
-    }
+.blockform{
+	display: flex;
+	justify-content: space-around;
+	align-items: stretch;
+	text-align: justify;
+	color: white;
+}
 
-  .box2 {
-          display: flex;
-          flex-direction: row;
-        }
+.form-row {
+  padding-top: 8px;
+  padding-right: auto;
+  padding-bottom: 7px;
+  padding-left: 8px;
+}
+
+.colonneform2{
+	margin-right: auto;
+}
+.colonneform1{
+margin-right: 64px;
+margin-left: 248px;
+}
+
+#message{
+	width: 560px;
+  height: 212px;
+}
+
+#name {
+  border-radius: 4px;
+  border-color: #231f20;
+  height: 38px;
+  width: 320px;
+}
+
+#email {
+  border-radius: 4px;
+  border-color: #231f20;
+  height: 38px;
+  width: 320px;
+}
+
+#subject {
+  border-radius: 4px;
+  border-color: #231f20;
+  height: 38px;
+  width: 320px;
+}
