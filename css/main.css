@@ -247,6 +247,16 @@ text-align: justify;
   color: #ffffff;
 }
 
+.colonnebackground4 {
+    background-image: url(../img/bg-violet.png);
+    text-align: left;
+  }
+
+  .colonnebackground5 {
+      background-image: url(../img/bg-blue.png);
+      text-align: left;
+    }
+
 
 
 h3 {
