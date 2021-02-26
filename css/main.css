@@ -257,6 +257,89 @@ text-align: justify;
       text-align: left;
     }
 
+.titre5 {
+  font-size: 40px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.grille{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 20px;
+  margin: 32px 32px;
+}
+
+.bg-black {
+  background-color: #231f20;
+}
+
+.Latestreleases {
+  font-size: 40px;
+  font-weight: 1250;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 1px;
+}
+
+.contact {
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+  color: #ffffff;
+}
+
+
+
+.game_category {
+  font-size: 14px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 16px;
+  margin-right: 101px;
+  margin-bottom: 8px;
+  margin-left: 102px;
+}
+
+.game_title {
+  color: #fcce00;
+  font-size: 32px;
+  text-align: center;
+  font-weight: 900;
+}
+
+.game_description {
+  text-align: center;
+  font-size: 16px;
+  color: #ffffff;
+  margin-top: 32px;
+  margin-right: 20px;
+  margin-bottom: 143px;
+  margin-left: 20px;
+}
+
+.game{
+	position: relative;
+}
+
+.game_content{
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	transition: opacity 300ms, transform 300ms;
+	transform: translateX(-10px);
+}
+
+.game:hover .game_content{
+	opacity: 0.81;
+	transform: translateX(0px);
+}
 
 
 h3 {
